@@ -14,7 +14,7 @@ agricole ayant une boutique pour vendre leurs produits et un accès aux activit�
 Notre objectif été de construire un site web fictif essentiellement graphique et non accessible depuis internet.
 Cependant nous l'avons rendu accessible depuis internet et ajouté quelques fonctionnalités dynamiques (PHP) au fil du temps.
 
-### Lien du site web : www.cooperative-bionet.yo.fr
+### Lien du site web : https://www.cooperative-bionet.yo.fr
 
 ### Fichier du site web en ligne dans le dossier Cooperative-bionet
 
